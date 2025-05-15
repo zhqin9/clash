@@ -1,4 +1,7 @@
-    # ======= 哔哩哔哩 ======= #
+# anti-ip-attribution rules.yaml
+# https://github.com/SunsetMkt/anti-ip-attribution
+
+# ======= 哔哩哔哩 ======= #
     # 哔哩哔哩
     # 阻止私有DNS
 DOMAIN,httpdns.bilivideo.com,REJECT # issues/51
