@@ -3,9 +3,9 @@
 # REPO: https://github.com/blackmatrix7/ios_rule_script 
 # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Clubhouse/Clubhouse_No_Resolve.yaml
 # UPDATED: 2025-06-06 09:17:41
-# DOMAIN: 3
+# DOMAIN: 4
 # DOMAIN-SUFFIX: 3
-# TOTAL: 6
+# TOTAL: 7
 payload:
  - DOMAIN,clubhouse.pubnub.com
  - DOMAIN,clubhouse.pubnubapi.com
