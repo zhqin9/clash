@@ -10,6 +10,7 @@ payload:
  - DOMAIN,clubhouse.pubnub.com
  - DOMAIN,clubhouse.pubnubapi.com
  - DOMAIN,clubhouseprod.s3.amazonaws.com
+ - DOMAIN,d14u0p1qkech25.cloudfront.net
  - DOMAIN-SUFFIX,clubhouse.com
  - DOMAIN-SUFFIX,clubhouseapi.com
  - DOMAIN-SUFFIX,joinclubhouse.com
