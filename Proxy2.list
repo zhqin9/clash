@@ -45,6 +45,15 @@ DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,bigo.sg
 DOMAIN-SUFFIX,bigolive.tv
 DOMAIN-SUFFIX,activity.bigo.tv
+DOMAIN-SUFFIX,newlbs.live.bigo.sg
+DOMAIN-SUFFIX,static-act.bigolive.tv
+DOMAIN-SUFFIX,conf-lv.piojm.tech
+DOMAIN-SUFFIX,bstream.sgmbocast.com
+DOMAIN-SUFFIX,launches.appsflyersdk.com
+DOMAIN-SUFFIX,actan.dfaklj.tech
+DOMAIN-SUFFIX,sysdk.cl2009.com
+IP-CIDR,111.13.223.188/32
+DOMAIN-SUFFIX,serviceinfo.inke.cn
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
