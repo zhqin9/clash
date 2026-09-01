@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,metacubex.one
 
 DOMAIN-SUFFIX,bigo.sg
 DOMAIN-SUFFIX,bigolive.tv
+DOMAIN-SUFFIX,activity.bigo.tv
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
